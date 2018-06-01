@@ -1,0 +1,5 @@
+# IDE files
+*.idea
+
+# Basic env file
+.env
